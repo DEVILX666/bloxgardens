@@ -207,7 +207,7 @@ export default function HomePage() {
           Get <span className="free-text">FREE</span> Grow a Garden Pets! ✨
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto mb-8 relative z-10">
-          Collect rare Grow a Garden pets by completing easy tasks! No Robux needed.
+          Collect rare Grow a Garden pets by completing easy tasks! No Money needed.
         </p>
 
         <PetCarousel />
